@@ -19,7 +19,8 @@ This project analyzes Blinkit sales data and presents insights using an interact
 - Average ratings are consistent across categories
 
 ## 📷 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+<img width="1315" height="734" alt="Screenshot 2025-12-24 145648" src="https://github.com/user-attachments/assets/ee37dab5-6d20-4747-b0fc-68c422f739a7" />
+
 
 ## 📂 Files Included
 - Dashboard.pbix
