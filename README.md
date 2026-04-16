@@ -23,5 +23,5 @@ This project analyzes Blinkit sales data and presents insights using an interact
 
 
 ## 📂 Files Included
-- Dashboard.pbix
+- Blinkit sales data analysis.pbix
 - dataset.xlsx
